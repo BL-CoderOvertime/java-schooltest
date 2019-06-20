@@ -32,8 +32,6 @@ public class CourseServiceImplTest {
     @Before
     public void setUp() throws Exception {
         MockitoAnnotations.initMocks(this);
-
-
     }
 
     @After
